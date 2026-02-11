@@ -1,1 +1,6 @@
-
+{
+    "name": "Frappe Security Standard",
+    "description": "Enterprise security scanning for ERPGulf apps using official Frappe rules.",
+    "iconName": "shield",
+    "categories": ["Security", "Python"]
+}
