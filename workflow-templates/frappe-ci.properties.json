@@ -1,0 +1,6 @@
+{
+  "name": "Frappe Standard CI",
+  "description": "The official Frappe/ERPNext CI workflow for custom apps.",
+  "iconName": "check-circle",
+  "categories": ["Python", "CI/CD"]
+}
